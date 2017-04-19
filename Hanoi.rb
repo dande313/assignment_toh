@@ -165,7 +165,7 @@ puts "1.Select a tower number, in order to pick a disk from that tower."
 puts "2.Next, select a tower that is either empty, or contains a larger disk"
 puts "  than the one you selected."
 puts "3. The disk from the tower you selected, to the tower you selected."
-puts "4. If you can move the entire tower from 1 to 4, you win!!!"
+puts "4. If you can move the entire tower from 1 to 3, you win!!!"
 puts ""
 puts 'Press "Enter" to continue'
 gets
